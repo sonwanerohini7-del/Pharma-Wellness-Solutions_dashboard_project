@@ -66,11 +66,9 @@ The system is developed for use by either the **Admin** or **Pharmacists**.
 - Keep track of all sale transactions
 - Generate and view reports based on the data
 
-### Screenshots
+### Images
 
 #### Admin Login Page
-
-
 
 ### Pharmacist Capabilities:
 
@@ -78,10 +76,6 @@ The system is developed for use by either the **Admin** or **Pharmacists**.
 - View minimal details regarding existing customers
 - Add a new customer to their database
 - Make a new sale and register the sale details onto the database
-
-
-
-
 
 ## Database Architecture
 
